@@ -23,6 +23,10 @@
 ### 1. 运行脚本
 
 ```bash
+python 优选.py
+```
+### 2.GUI方式运行
+```bash
 python gui_main.py
 ```
 
