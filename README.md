@@ -25,7 +25,7 @@
 ```bash
 python 优选.py
 ```
-### 2.GUI方式运行
+### 2.GUI方式运行(可选）
 ```bash
 python gui_main.py
 ```
