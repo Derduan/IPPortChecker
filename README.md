@@ -150,4 +150,13 @@ pyinstaller --onefile --noconsole --add-data "反代ip.csv;." 优选.py
   ```
 - 保留命令行窗口（调试用）：去掉 `--noconsole` 参数。
 
+- ## 致谢与数据来源
+
+本项目中的部分 csv 与 txt 数据文件来源于 Kwisma 大佬的频道与开源项目，在此特别致谢：
+
+- Telegram 频道：[Marisa X](https://t.me/Marisa_kristi)
+- GitHub：[Kwisma](https://github.com/Kwisma)
+
+如需获取最新数据或更多资源，欢迎关注和支持原作者！ 
+
 如需详细打包命令或遇到具体报错，欢迎反馈！ 
